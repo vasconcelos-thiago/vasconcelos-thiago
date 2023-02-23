@@ -1,4 +1,6 @@
-Sou Thiago Vasconcelos, cursei Ciêcias da Computação e atualmente cursando de Análise e Desenvolvimento de Sistemas.
+Estudante de Análise e Desenvolvimento de Sistemas
+Dev FullStack Java 
+
 
 
 <a href="https://github.com/vasconcelos-thiago"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=vasconcelos-thiago&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/></a>
