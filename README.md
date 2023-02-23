@@ -1,4 +1,4 @@
-Sou Thiago Vasconcelos, atualmente cursando de Análise e Desenvolvimento de Sistemas. Estou a procura de uma oportunidade no mercado de tecnologia para contribuir no desenvolvimento de software e sistemas em uma empresa na área de TI. Sou proativo e busco aprender e desenvolver soluções inovadoras que impactam diretamente em resultados. Tenho como objetivos ampliar minhas habilidades, conhecimentos e competências em tecnologia da informação.
+Sou Thiago Vasconcelos, cursei Ciêcias da Computação e atualmente cursando de Análise e Desenvolvimento de Sistemas.
 
 
 <a href="https://github.com/vasconcelos-thiago"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=vasconcelos-thiago&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/></a>
