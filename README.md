@@ -1,12 +1,12 @@
-Estudante de Análise e Desenvolvimento de Sistemas<br>
-Dev FullStack Java Spring boot
+<h2 >Estudante de Análise e Desenvolvimento de Sistemas<br>
+Dev FullStack Java Spring boot </h2>
 
-
+<br>
 
 <a href="https://github.com/vasconcelos-thiago"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=vasconcelos-thiago&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/></a>
   
 
-
+<br>
 
 
 <div style="display: inline_block"><br>
@@ -26,7 +26,6 @@ Dev FullStack Java Spring boot
   <br>
   
   
-  
   <img align="center" alt="thiago-NODEjs" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
   <img align="center" alt="David-Github" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   
@@ -39,9 +38,10 @@ Dev FullStack Java Spring boot
   <img align="center" alt="David-React" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg" />
   
   
-  
+  <br>
 </div>
-  
+<br>
+<p aling="center" font-size="20" > Essas são as minhas redes sociais, você pode entrar em contato comigo selecionando uma delas ;) </p>
   <div>
 <a href="http://twitter.com/ThiagoFx00/#" target="_blank"> <img src="https://img.shields.io/twitter/follow/ThiagoFx00?style=social"></a>
 <br><a href="http://instagram.com/otherthiago" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" ></a>
