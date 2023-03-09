@@ -1,5 +1,5 @@
-<h2 >Estudante de Análise e Desenvolvimento de Sistemas<br>
-Dev FullStack Java Spring boot </h2>
+<h2 >System Developer<br>
+FullStack Java Spring boot </h2>
 
 <br>
 
