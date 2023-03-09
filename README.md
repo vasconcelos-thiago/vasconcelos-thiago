@@ -3,7 +3,7 @@ FullStack Java Spring boot </h2>
 
 <br>
 
-<a href="https://github.com/vasconcelos-thiago"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=vasconcelos-thiago&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/></a>
+<a href="https://github.com/vasconcelos-thiago"><img height="30vh" src="https://github-readme-stats.vercel.app/api?username=vasconcelos-thiago&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/></a>
   
 
 <br>
