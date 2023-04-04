@@ -1,5 +1,4 @@
-<h2 >System Developer<br>
-FullStack Java Spring boot </h2>
+<h2 >System Developer<br></h2>
 
 <br>
 
