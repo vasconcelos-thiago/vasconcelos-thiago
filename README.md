@@ -13,7 +13,6 @@ Sou apaixonado por tecnologia e estou sempre em busca de aprimorar minhas habili
 <br>
 
 Abaixo as stacks, tecnologias e setup que utilizo atualmente! 
-  
 <br>
 <div style="display: inline_block"><br>
 <img align= "center" src= "https://res.cloudinary.com/practicaldev/image/fetch/s--ytlCYKyP--/c_limit,f_auto,fl_progressive,q_40,w_60/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/22/git-sticker.png"/>
