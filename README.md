@@ -1,4 +1,4 @@
-<h1> 
+<h3> 
 Formação: Cursei Ciência da Computação, Atualmente Estudante de Análise e Desenvolvimento de Sistemas.
 
 Habilidades:
@@ -11,7 +11,7 @@ Experiência: Conhecimentos em desenvolvimento de software, banco de dados e pro
 
 Objetivo Profissional: Contribuir para projetos de desenvolvimento de software de alta qualidade, aplicando meus conhecimentos em Java, Kotlin e Spring Boot para criar soluções eficientes e inovadoras.
 
-Sobre Mim: Sou apaixonado por tecnologia e estou sempre em busca de aprimorar minhas habilidades como desenvolvedor. Acredito na importância do aprendizado contínuo e da colaboração em equipe para alcançar resultados excelentes.</h1>
+Sobre Mim: Sou apaixonado por tecnologia e estou sempre em busca de aprimorar minhas habilidades como desenvolvedor. Acredito na importância do aprendizado contínuo e da colaboração em equipe para alcançar resultados excelentes.</h3>
 
 <br>
 
