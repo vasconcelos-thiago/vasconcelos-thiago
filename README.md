@@ -1,4 +1,4 @@
-<p>
+<p font-size="20">
 Formação: Cursei Ciência da Computação, Atualmente Estudante de Análise e Desenvolvimento de Sistemas.
 
 Habilidades:
