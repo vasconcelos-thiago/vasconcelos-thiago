@@ -2,7 +2,7 @@
 
 <br>
 
-<a href="https://github.com/vasconcelos-thiago"><img height="150rem" src="https://github-readme-stats.vercel.app/api?username=vasconcelos-thiago&show_icons=true&theme=bear&include_all_commits=true&count_private=true"></a>
+Abaixo as stacks, tecnologias e setup que ue utilizo atualmente! 
   
 
 <br>
