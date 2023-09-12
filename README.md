@@ -7,9 +7,8 @@ Frameworks: Spring Boot, Angular e NextJS.
 
 Experiência: Conhecimentos em desenvolvimento de software, banco de dados e programação.
 
-Objetivo Profissional: Contribuir para projetos de desenvolvimento de software de alta qualidade, aplicando meus conhecimentos em Java, Kotlin e Spring Boot para criar soluções eficientes e inovadoras.
-
-Sobre Mim: Sou apaixonado por tecnologia e estou sempre em busca de aprimorar minhas habilidades como desenvolvedor. Acredito na importância do aprendizado contínuo e da colaboração em equipe para alcançar resultados excelentes.</p>
+Tenho como objetivo contribuir para projetos de desenvolvimento de software de alta qualidade, aplicando meus conhecimentos em Java, Kotlin e Spring Boot para criar soluções eficientes e inovadoras.
+Sou apaixonado por tecnologia e estou sempre em busca de aprimorar minhas habilidades como desenvolvedor. Acredito na importância do aprendizado contínuo e da colaboração em equipe para alcançar resultados excelentes.</p>
 
 <br>
 
