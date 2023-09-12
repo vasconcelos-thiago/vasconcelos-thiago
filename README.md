@@ -2,7 +2,7 @@
 
 <br>
 
-Abaixo as stacks, tecnologias e setup que ue utilizo atualmente! 
+Abaixo as stacks, tecnologias e setup que utilizo atualmente! 
   
 
 <br>
