@@ -1,4 +1,4 @@
-<p font-size="20">
+<div aling="center"> <p font-size="20">
 Formação: Cursei Ciência da Computação, Atualmente Estudante de Análise e Desenvolvimento de Sistemas.
 
 Linguagens de Programação: Java, Kotlin e Javascript e Typescript.
@@ -60,3 +60,5 @@ Abaixo as stacks, tecnologias e setup que utilizo atualmente!
 <a href="http://www.twitch.tv/#" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
 <a href="http://discord.gg/#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"> </a> 
   </div>
+  </div>
+  
