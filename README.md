@@ -1,8 +1,6 @@
 <p font-size="20">
 Formação: Cursei Ciência da Computação, Atualmente Estudante de Análise e Desenvolvimento de Sistemas.
 
-Habilidades:
-
 Linguagens de Programação: Java, Kotlin e Javascript e Typescript.
 
 Frameworks: Spring Boot, Angular e NextJS.
@@ -38,7 +36,7 @@ Abaixo as stacks, tecnologias e setup que utilizo atualmente!
   <br>
   
   
-  <img align="center" alt="thiago-NODEjs" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img align="center" alt="thiago-NODEjs" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" />
   <img align="center" alt="David-Github" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   
   <img align="center" alt="David-Github" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
