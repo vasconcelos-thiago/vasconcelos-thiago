@@ -37,7 +37,7 @@ Abaixo as stacks, tecnologias e setup que utilizo atualmente!
   <img align="center" alt="David-React" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg" />
   
   
-  <br>
+  <br><br><br>
 </div>
 <br>
 <p aling="center" font-size="20" > Essas são as minhas redes sociais, você pode entrar em contato comigo selecionando uma delas ;) </p>
