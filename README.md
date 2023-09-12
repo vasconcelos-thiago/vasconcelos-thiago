@@ -1,11 +1,11 @@
-<div aling="center"> <p font-size="20">
-Formação: Cursei Ciência da Computação, Atualmente Estudante de Análise e Desenvolvimento de Sistemas.
+<div aling-itens ="center"> <p font-size="20">
+Cursei Ciência da Computação, Atualmente Estudante de Análise e Desenvolvimento de Sistemas.
 
 Linguagens de Programação: Java, Kotlin e Javascript e Typescript.
 
 Frameworks: Spring Boot, Angular e NextJS.
 
-Experiência: Conhecimentos em desenvolvimento de software, banco de dados e programação.
+Conhecimentos em desenvolvimento de software, banco de dados e programação.
 
 Tenho como objetivo contribuir para projetos de desenvolvimento de software de alta qualidade, aplicando meus conhecimentos em Java, Kotlin e Spring Boot para criar soluções eficientes e inovadoras.
 Sou apaixonado por tecnologia e estou sempre em busca de aprimorar minhas habilidades como desenvolvedor. Acredito na importância do aprendizado contínuo e da colaboração em equipe para alcançar resultados excelentes.</p>
@@ -15,7 +15,6 @@ Sou apaixonado por tecnologia e estou sempre em busca de aprimorar minhas habili
 Abaixo as stacks, tecnologias e setup que utilizo atualmente! 
   
 <br>
-
 <div style="display: inline_block"><br>
 <img align= "center" src= "https://res.cloudinary.com/practicaldev/image/fetch/s--ytlCYKyP--/c_limit,f_auto,fl_progressive,q_40,w_60/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/22/git-sticker.png"/>
    
