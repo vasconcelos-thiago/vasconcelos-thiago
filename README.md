@@ -1,14 +1,12 @@
-<div aling-itens ="center"> <p font-size="20">
-Cursei Ciência da Computação, Atualmente Estudante de Análise e Desenvolvimento de Sistemas.
+<div> <p font-size="20">
+
+Busco uma aportunidade nas areas de desenvolvimento de software, banco de dados e programação. Tenho como objetivo contribuir para projetos de desenvolvimento de software de alta qualidade, aplicando meus conhecimentos em Java, Kotlin e Spring Boot para criar soluções eficientes e inovadoras.
+Graduado Análise e Desenvolvimento de Sistemas, Cursei Ciência da Computação até o sexto periodo. Sou apaixonado por tecnologia e estou sempre em busca de aprimorar minhas habilidades como desenvolvedor. Acredito na importância do aprendizado contínuo e da colaboração em equipe para alcançar resultados excelentes.
 
 Linguagens de Programação: Java, Kotlin e Javascript e Typescript.
 
 Frameworks: Spring Boot, Angular e NextJS.
-
-Conhecimentos em desenvolvimento de software, banco de dados e programação.
-
-Tenho como objetivo contribuir para projetos de desenvolvimento de software de alta qualidade, aplicando meus conhecimentos em Java, Kotlin e Spring Boot para criar soluções eficientes e inovadoras.
-Sou apaixonado por tecnologia e estou sempre em busca de aprimorar minhas habilidades como desenvolvedor. Acredito na importância do aprendizado contínuo e da colaboração em equipe para alcançar resultados excelentes.</p>
+</p>
 
 <br>
 
