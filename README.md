@@ -1,7 +1,13 @@
 <div> <p font-size="20">
 
-Busco uma aportunidade nas areas de desenvolvimento de software, banco de dados e programação. Tenho como objetivo contribuir para projetos de desenvolvimento de software de alta qualidade, aplicando meus conhecimentos em Java, Kotlin e Spring Boot para criar soluções eficientes e inovadoras.
-Graduado Análise e Desenvolvimento de Sistemas, Cursei Ciência da Computação até o sexto periodo. Sou apaixonado por tecnologia e estou sempre em busca de aprimorar minhas habilidades como desenvolvedor. Acredito na importância do aprendizado contínuo e da colaboração em equipe para alcançar resultados excelentes.
+Possuo graduação em Análise e Desenvolvimento de Sistemas pela Faculdade Anhanguera de São Luís e cursei
+Ciência da Computação até o sexto período na mesma instituição.
+Durante meu percurso profissional, tive a oportunidade de atuar em diversas vertentes que auxiliaram no meu
+desenvolvimento na área de Tecnologia de Informação. Dentre as minhas habilidades, destaco: proatividade, foco em
+resultados, trabalho em equipe, comprometimento e autonomia. Procuro por oportunidades em ambientes
+dinâmicos que ampliem meus conhecimentos teóricos e práticos. Sou movido pelo desejo de aprendizado e
+desenvolvimento profissional, busco contribuir de forma significativa para o sucesso da equipe e da organização como
+um todo.
 
 Linguagens de Programação: Java, Kotlin e Javascript e Typescript.
 
